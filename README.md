@@ -1,5 +1,5 @@
 # Rest Countries using fetch API
-***additionally included **async & await** ***
+*additionally included* **async & await**
 
 ***Purpose of the Project:***   
 To display the Rest countries as Country Cards with certain country related information retrieved from the API
